@@ -1,6 +1,6 @@
 ## About the Project
 
-This project was built using React, Next.js, shadcn/ui, and React Icons.
+This project was built using React, Next.js, shadcn/ui, tailwind css, and React Icons.
 The entire frontend was built by yours truly @trantiffany and has been updated to remove information relating to xxxxx.
 
 It was originally developed as part of a hackathon project, with the primary goal of improving the developer experience. Rather than jumping between multiple platforms and dashboards, this app serves as a centralized developer dashboard.
@@ -27,6 +27,16 @@ In a future iteration:
 Cards and dashboards could adapt based on the user’s role (DEV/QA/DESIGN/PRODUCT).
 Each role would see customized information and tools relevant to their workflow.
 This would transform the app from a developer-only dashboard into a cross-functional team hub, streamlining collaboration across the entire product lifecycle.
+
+# Preview
+
+![image-4](https://github.com/user-attachments/assets/80700f5a-d00f-41cf-8f35-6365c25bb137)
+
+![image-5](https://github.com/user-attachments/assets/b5a35842-da6a-49b6-8caa-621366331ab0)
+
+![image-1](https://github.com/user-attachments/assets/5bff458c-dc78-461e-b62c-ce13ca2c648a)
+
+![image-7](https://github.com/user-attachments/assets/904a731b-1efa-40e6-b8aa-5520cb8a96cf)
 
 ## Getting Started
 
